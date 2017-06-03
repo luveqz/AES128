@@ -1,6 +1,5 @@
+from tests.context import *
 import unittest
-from aes import *
-from tables import *
 
 class TestAES(unittest.TestCase):
 

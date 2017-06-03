@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# -*- enconde: utf8 -*-
+# -*- coding: utf8 -*-
 from tables import s_box, rcon
 from utils import *
 
